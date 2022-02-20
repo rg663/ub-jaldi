@@ -1,0 +1,32 @@
+html * {
+	font-family: 'Sofia Pro';
+}
+
+@font-face {
+	font-family: 'Sofia Pro';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Sofia Pro'), url('https://fonts.cdnfonts.com/s/14903/Sofia Pro Regular Az.woff') format('woff');
+}
+
+.jumbotron{
+	background-color:#005bbb;
+	color: white;
+	font-family: 'Sofia Pro';
+}
+
+#sitenom{
+	font-weight: 800;
+}
+
+.btn{
+	font-size: 1.17em;
+	font-weight: bold;
+	height: 500%;
+	width: 100%;
+}
+
+#box{
+	border: 1px solid black;
+	outline: 1px solid black;
+}
